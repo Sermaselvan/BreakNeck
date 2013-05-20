@@ -1,6 +1,6 @@
 ####The stream for a Bike race game#####
 
-Developers
+Pulta-ulta Developers
 Aswin
 Giri
 Serma
